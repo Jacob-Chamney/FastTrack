@@ -18,7 +18,7 @@ track progress per group, and keep notes on each task.
 ## Getting started
 
 ```bash
-git clone <your repo URL>
+git clone https://github.com/Jacob-Chamney/FastTrack
 cd ProgressTracker
 pip install -r requirements.txt
 python main.py
