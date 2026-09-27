@@ -15,13 +15,21 @@ track progress per group, and keep notes on each task.
 - Python 3.10+
 - [CustomTkinter](https://github.com/TomSchimansky/CustomTkinter)
 
-## Getting started
+## Getting started - Linux
 
 ```bash
 git clone https://github.com/Jacob-Chamney/FastTrack
 cd FastTrack
 pip install -r requirements.txt
 python main.py
+```
+## Getting started - Windows
+
+```bash
+git clone https://github.com/Jacob-Chamney/FastTrack
+cd FastTrack
+py -m pip install -r requirements.txt
+py main.py
 ```
 
 ## Project structure
