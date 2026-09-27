@@ -19,7 +19,7 @@ track progress per group, and keep notes on each task.
 
 ```bash
 git clone https://github.com/Jacob-Chamney/FastTrack
-cd ProgressTracker
+cd FastTrack
 pip install -r requirements.txt
 python main.py
 ```
