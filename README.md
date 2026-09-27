@@ -35,13 +35,13 @@ widgets.py   # custom widgets (WIP)
 ## Roadmap
 
 ### Done
-- [x] Task groups as tabs
-- [x] Add / check off / delete tasks
-- [x] Per-group progress bar
-- [x] Task notes with edit/save
-- [x] Delete groups (when empty or fully complete)
-- [x] Save / Save As / Open projects (JSON)
-- [x] Refactor into a class and split into modules
+- [x] ~~Task groups as tabs~~
+- [x] ~~Add / check off / delete tasks~~
+- [x] ~~Per-group progress bar~~
+- [x] ~~Task notes with edit/save~~
+- [x] ~~Delete groups (when empty or fully complete)~~
+- [x] ~~Save / Save As / Open projects (JSON)~~
+- [x] ~~Refactor into a class and split into modules~~
 
 ### Up next
 - [ ] `TaskRow` widget class (`widgets.py`)
