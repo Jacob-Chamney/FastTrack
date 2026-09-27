@@ -1,4 +1,4 @@
-# Progress Tracker
+# FastTrack
 
 A simple desktop to-do app built with **CustomTkinter**. Organize tasks into groups,
 track progress per group, and keep notes on each task.
